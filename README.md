@@ -1,2 +1,2 @@
 # bc_tutorial
-tutorial for bc
+tutorial for bc is babo.
